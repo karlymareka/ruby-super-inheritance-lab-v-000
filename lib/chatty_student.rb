@@ -1,4 +1,4 @@
-require relative 
+require relative "./student"
 
 class Chatty_student 
   
